@@ -19,7 +19,7 @@ class PhotoDetailViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        ownerImageView.layer.cornerRadius = 24.0
+        ownerImageView.layer.cornerRadius = 22.0
         
         title = "Photo Detail"
         imageView.backgroundColor = .gray
